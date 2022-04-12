@@ -4,7 +4,6 @@
 - [IIvexII](https://github.com/IIvexII)
 - [Ka Hung Lee](https://github.com/leekahung)
 - [MTM]
-- [test]
 - [keerthana286](https://github.com/keerthana286)
 - [Obaida HY](https://github.com/ObaidaHY)
 - [Augustin Lima](https://github.com/aaugustinlima)
